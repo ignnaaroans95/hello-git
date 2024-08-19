@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="76ddeba5-2a33-438d-9358-bca7341c0430" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/helloGit3.java" beforeDir="false" afterPath="$PROJECT_DIR$/helloGit3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../helloGit2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../programa1.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "git-widget-placeholder": "login"
+  }
+}]]></component>
+  <component name="TaskManager">
+    <servers />
+  </component>
+</project>
