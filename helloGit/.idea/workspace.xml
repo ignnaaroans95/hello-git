@@ -4,22 +4,39 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="76ddeba5-2a33-438d-9358-bca7341c0430" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/helloGit3.java" beforeDir="false" afterPath="$PROJECT_DIR$/helloGit3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../helloGit2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../programa1.java" beforeDir="false" />
-    </list>
+    <list default="true" id="76ddeba5-2a33-438d-9358-bca7341c0430" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 5
+}]]></component>
+  <component name="ProjectId" id="2kuiMlvHP6eWDdLKFD5CdQmuuhd" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
-    "git-widget-placeholder": "login"
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "login",
+    "kotlin-language-version-configured": "true"
   }
 }]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="76ddeba5-2a33-438d-9358-bca7341c0430" name="Changes" comment="" />
+      <created>1724139816858</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1724139816858</updated>
+    </task>
     <servers />
   </component>
 </project>
