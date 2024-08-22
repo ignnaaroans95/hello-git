@@ -3,5 +3,6 @@ public class helloGit2 {
 
 
         System.out.println("Esta es una linea para gitHub");
+        System.out.println("Esta es otra linea");
     }
 }
